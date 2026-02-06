@@ -364,7 +364,7 @@ This project is licensed under the MIT License.
 
 ## 👥 Authors
 
-- Your Name - Initial work
+- Ashwani Kumar Singh - Initial work
 
 ## 🙏 Acknowledgments
 
@@ -372,10 +372,6 @@ This project is licensed under the MIT License.
 - React community
 - Tailwind CSS team
 - MongoDB team
-
-## 📞 Support
-
-For support, email your-email@example.com or open an issue on GitHub.
 
 ## 🔮 Future Enhancements
 
